@@ -1,0 +1,9 @@
+1,Party,Gerald's fun house,2018-12-03 20:00,2018-12-04 05:30,100,CONSULTANCY,true,true,false
+1,fun fun,Bella Center,2018-12-07 20:20,2018-12-08 10:00,130,CONSULTANCY,true,true,false
+1,semester party,Bella Center,2018-12-20 20:30,2018-12-21 16:00,300,CONSULTANCY,true,true,false
+1,Christmas party,Gerald's fun house,2018-12-25 19:00,2018-12-26 03:30,30,CONSULTANCY,true,true,false
+2,Vacation,Rome,2018-12-03 12:00,2018-12-06 20:30,10,CONSULTANCY,false,false
+2,Holiday,Madrid,2018-12-06 12:00,2018-12-15 17:00,5,CONSULTANCY,false,false
+2,Rest,Rome,2018-12-20 20:20,2018-12-30 10:00,2,CONSULTANCY,false,false
+3,Meeting,Talent Garden,2018-12-04 12:00,2018-12-04 16:30,50,CONSULTANCY,true,false,false
+3,Important,Farum,2018-12-10 13:30,2018-12-10 17:00,100,CONSULTANCY,true,false,false
